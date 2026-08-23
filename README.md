@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ce4ecb1-d195-4d7e-aa59-87d809fb6ef0" width="150" alt="Liza's Octocat mascot" />
-</p>
-
-<p align="center">
   BS in Artificial Intelligence @ Air University, Islamabad<br/>
   Building AI systems that make real workflows faster and more reliable — in healthcare, and beyond.
 </p>
