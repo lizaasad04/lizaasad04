@@ -18,9 +18,7 @@
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
-</p>
+---
 
 ### 🔧 What I work with
 
@@ -34,9 +32,7 @@
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
-</p>
+---
 
 ### 🚀 Featured projects
 
@@ -60,18 +56,14 @@ A stateless auth service with RBAC, access/refresh token lifecycles, and JWT-bas
 An information-retrieval system that ranks and recommends universities against user preferences.
 `Python` `Information Retrieval`
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
-</p>
+---
 
 ### 📜 Certifications
 - Anthropic Academy — Building with the Claude API
 - DataCamp — Python Data Associate
 - *(in progress)* DataCamp — AI Engineer for Developers Associate
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
-</p>
+---
 
 ### 📈 Contribution activity
 
