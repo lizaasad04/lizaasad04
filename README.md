@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Liza Asad Mughal 👋</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision · NLP · RAG Systems</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ce4ecb1-d195-4d7e-aa59-87d809fb6ef0" width="160" alt="Liza's Octocat mascot" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4B8BBE&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Computer+Vision+%7C+NLP+%7C+RAG+Systems;Building+systems+that+actually+ship" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ce4ecb1-d195-4d7e-aa59-87d809fb6ef0" width="150" alt="Liza's Octocat mascot" />
 </p>
 
 <p align="center">
@@ -15,24 +18,25 @@
   <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
+</p>
 
 ### 🔧 What I work with
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,nodejs,express,docker,git,streamlit,opencv" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
+</p>
 
 ### 🚀 Featured projects
 
@@ -56,13 +60,30 @@ A stateless auth service with RBAC, access/refresh token lifecycles, and JWT-bas
 An information-retrieval system that ranks and recommends universities against user preferences.
 `Python` `Information Retrieval`
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
+</p>
 
 ### 📜 Certifications
 - Anthropic Academy — Building with the Claude API
 - DataCamp — Python Data Associate
 - *(in progress)* DataCamp — AI Engineer for Developers Associate
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%" alt="divider" />
+</p>
+
+### 📈 Contribution activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lizaasad04/lizaasad04/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lizaasad04/lizaasad04/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <p align="center"><i>Open to AI/ML Engineer, Software Engineer, and Backend/Frontend roles.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lizaasad04&style=flat-square&color=4B8BBE&label=Profile+Views" />
+</p>
