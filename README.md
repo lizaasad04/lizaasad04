@@ -32,6 +32,10 @@
 
 ### 🚀 Featured projects
 
+**[EdgeStream-Vision — Low-Latency Smart Surveillance & Edge Video Pipeline](https://github.com/lizaasad04/EdgeStream-Vision)**
+Real-time security zone & intrusion detection engine with ONNX INT8 quantization (72.7% model compression, 2x CPU speedup), a zero-lag thread-safe ring buffer, and a live FastAPI + WebSockets streaming dashboard.
+`ONNX Runtime` `INT8 Quantization` `FastAPI` `WebSockets` `YOLOv8` `OpenCV` `Docker`
+
 **[Gizmo — Pharmaceutical Packaging Verification System](https://github.com/lizaasad04/gizmo)**
 Computer-vision defect detection for pharma packaging lines, combining YOLOv11 for localization, Llama 3.2 Vision + RAG for defect reasoning, served through a Streamlit interface.
 `YOLOv11` `Llama 3.2 Vision` `RAG` `Streamlit`
@@ -47,10 +51,6 @@ A chat system where specialized agents divide reasoning work instead of one mode
 **[Authorisation Subsystem](https://github.com/lizaasad04/Authorisation-subsystem)**
 A stateless auth service with RBAC, access/refresh token lifecycles, and JWT-based session handling.
 `Node.js` `Express` `JWT` `RBAC`
-
-**[University Recommendation System](https://github.com/lizaasad04/univeristy-recommendation-system-IR-)**
-An information-retrieval system that ranks and recommends universities against user preferences.
-`Python` `Information Retrieval`
 
 ---
 
