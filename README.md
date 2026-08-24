@@ -16,15 +16,17 @@
 
 ---
 
+<div align="center">
+
 ### 🔧 What I work with
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,cpp,nodejs,express,fastapi,docker,git,linux" alt="Tech Stack Icons" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/YOLOv8%20%2F%20v11-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
   <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
   <img src="https://img.shields.io/badge/RAG-007ACC?style=flat-square" alt="RAG" />
@@ -32,6 +34,8 @@
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
+
+</div>
 
 ---
 
