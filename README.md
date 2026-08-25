@@ -57,9 +57,9 @@ End-to-end tumor detection pipeline on the BraTS-PEDs dataset — radiometric pr
 A chat system where specialized agents divide reasoning work instead of one model handling everything, improving accuracy on complex queries.
 `Python` `Multi-Agent Orchestration`
 
-**[Authorisation Subsystem](https://github.com/lizaasad04/Authorisation-subsystem)**
-A stateless auth service with RBAC, access/refresh token lifecycles, and JWT-based session handling.
-`Node.js` `Express` `JWT` `RBAC`
+**[FastHybrid-RAG — Sub-20ms Hybrid Search & Grounded Knowledge Engine](https://github.com/lizaasad04/FastHybrid-RAG)**
+High-performance information retrieval and grounded AI search engine combining Sparse Lexical Search (BM25) and Dense Vector Search (FAISS) using Reciprocal Rank Fusion (RRF), sub-millisecond in-memory caching, and zero-hallucination bracketed citations.
+`BM25` `FAISS` `Reciprocal Rank Fusion` `FastAPI` `LRU Cache` `SentenceTransformers` `Python` `Docker`
 
 ---
 
