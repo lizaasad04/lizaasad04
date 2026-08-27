@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### 🔧 What I work with
+### What I work with
 
 <p align="center">
   <a href="https://skillicons.dev">
