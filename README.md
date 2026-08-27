@@ -81,6 +81,3 @@ High-performance information retrieval and grounded AI search engine combining S
 
 <p align="center"><i>Open to AI/ML Engineer, Software Engineer, and Backend/Frontend roles.</i></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lizaasad04&style=flat-square&color=4B8BBE&label=Profile+Views" />
-</p>
